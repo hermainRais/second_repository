@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["0DvIL"]); }
+
+__d("XLiveVideoClipWasLiveController",["XController"],(function(a,b,c,d,e,f){e.exports=b("XController").create("/video_broadcast/clip/",{video_id:{type:"Int"},clip_start_seconds:{type:"Float",defaultValue:0},clip_end_seconds:{type:"Float",defaultValue:0}})}),null);

@@ -1,0 +1,35 @@
+date:22-06-19
+
+
+                                                                                                           using git and smart git
+Q)what is git hub?
+ans)git hub is like a drive use to store data like google drive.Git and git hub are two different things
+                                                              or
+git is used to store our data on cloud to be used it anywhere.Git is used by git hub
+Q)what is git?
+ans)git is  called version control system.Git is a software that is used to transfer our data from pc to cloud
+advantage of git:
+1)many people can work on one project
+----------------------------------------------------Difference between Smart Git and Git-------------------------------------
+git can be learn by command line interface(CLI)
+smart is graphical user interface (GUI)
+"smart git is like a wrapper on Git"
+-----------------------------------------------Commands in Git---------------------------------------------------
+1)git init (to initialize git)
+result is in 3 colors(white(matlab theak chalega),yellow,)
+2)git status (to check how many files git can run)
+result in red color means git cannot run these files
+3)git add .
+now every file can run by git (except red color files)
+2a)git status (check again staus of files)
+now after running "git add . " command if a red color file appers before now these red color files changes color from red to green means now these
+files can also run by git (this process is called ""stage"" . staging has two parts untrack files(red) and untrack files(green))
+now wrapping files before tranferring files on cloud this process is called """COMMIT"
+4)git commit -m (to wrrap files before transferring to cloud) -m(short message)
+
+5)git remote add origin (connect local repository to cloud repository)
+git remote add origin (repository path)
+6)git push -u origin master (it will ask username and password)
+
+
+

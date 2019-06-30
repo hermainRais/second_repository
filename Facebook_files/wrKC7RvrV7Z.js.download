@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["bnWIj"]); }
+
+__d("VideoComposerClippingManualInputSection.react",["cx","fbt","React","VideoComposerClippingActions","VideoComposerField.react","VideoComposerTrimmingManualInputRightSection.react"],(function(a,b,c,d,e,f,g,h){"use strict";function a(){return b("React").createElement("div",{className:"_3eh4"},b("React").createElement(b("VideoComposerField.react"),{input:b("React").createElement(b("VideoComposerTrimmingManualInputRightSection.react"),{onManualInput:b("VideoComposerClippingActions").manualInput}),showTopBorder:!1,subtitle:h._("Use the scrubber or edit the timestamps for adding clips from your video."),title:h._("Video Clipping")}))}e.exports=a}),null);
